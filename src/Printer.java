@@ -3,6 +3,7 @@ import db_model.DwdStoragegroup;
 
 import java.util.Iterator;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * Created by Sasha on 08.04.17.
@@ -53,4 +54,15 @@ public class Printer {
 		System.out.println();
 	}
 
+	public void printSlowSG(List slowSG) {
+		System.out.println("List Intervals");
+		Iterator it = slowSG.iterator();
+		while(it.hasNext()) {
+			Object[] data = (Object [])it.next();
+			System.out.println("|key: " + data[0] +
+							   " |id: " + data[1] +
+							   " |repetition: " + data[2]);
+		}
+		System.out.println();
+	}
 }

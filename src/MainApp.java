@@ -36,7 +36,8 @@ public class MainApp {
 			printer.printIntervals(intervals);
 
 			/* 5. Find storagegroups that slow processing */
-			analyzer.findSG(session);
+			List slowSG = analyzer.findSG(session);
+			printer.printSlowSG(slowSG);
 
 			transaction.commit();
 		} catch (HibernateException e) {
