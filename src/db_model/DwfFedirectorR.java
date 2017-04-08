@@ -3,13 +3,14 @@ package db_model;
 import javax.persistence.Basic;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import java.io.Serializable;
 
 /**
  * Created by Sasha on 08.04.17.
  */
 @Entity
 @javax.persistence.Table(name = "dwf_fedirector_r", schema = "public", catalog = "q1")
-public class DwfFedirectorR {
+public class DwfFedirectorR implements Serializable {
 	private int timekey;
 
 	@Id

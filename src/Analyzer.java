@@ -14,7 +14,7 @@ public class Analyzer {
 		Transaction transaction = null;
 		try {
 			transaction = session.beginTransaction();
-			List<Object []> directors = session.createSQLQuery("select fedirectorid, createdate from DwdFedirector").list();
+			List<Object []> directors = session.createSQLQuery("select fedirectorid, createdate from Dwd_Fedirector").list();
 			//	List<Object []> directors2 = session.createQuery("from DwdFedirector").list();
 			directors.forEach(p -> System.out.println("User id: "+p[0]));
 			transaction.commit();

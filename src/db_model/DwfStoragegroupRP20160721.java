@@ -3,13 +3,14 @@ package db_model;
 import javax.persistence.Basic;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import java.io.Serializable;
 
 /**
  * Created by Sasha on 08.04.17.
  */
 @Entity
 @javax.persistence.Table(name = "dwf_storagegroup_r_p20160721", schema = "public", catalog = "q1")
-public class DwfStoragegroupRP20160721 {
+public class DwfStoragegroupRP20160721 implements Serializable {
 	private int partitionkey;
 
 	@Id

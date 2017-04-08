@@ -6,7 +6,7 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 /**
  * Created by Sasha on 08.04.17.
  */
-public class HiberbateUtil {
+public class HibernateUtil {
 
 	private static SessionFactory sessionFactory = buildSessionFactory();
 
