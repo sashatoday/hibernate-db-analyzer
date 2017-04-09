@@ -1,4 +1,4 @@
-package db_model;
+package com.homework.hibernate.db_model;
 
 import javax.persistence.Basic;
 import javax.persistence.Entity;

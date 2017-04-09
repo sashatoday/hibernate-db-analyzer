@@ -1,4 +1,4 @@
-package db_model;
+package com.homework.hibernate.db_model;
 
 import javax.persistence.Basic;
 import javax.persistence.Entity;
@@ -9,8 +9,8 @@ import java.io.Serializable;
  * Created by Sasha on 08.04.17.
  */
 @Entity
-@javax.persistence.Table(name = "dwf_storagegroup_r_p20160720", schema = "public", catalog = "q1")
-public class DwfStoragegroupRP20160720 implements Serializable {
+@javax.persistence.Table(name = "dwf_storagegroup_r_p20160722", schema = "public", catalog = "q1")
+public class DwfStoragegroupRP20160722 implements Serializable {
 	private int partitionkey;
 
 	@Id
@@ -2476,7 +2476,7 @@ public class DwfStoragegroupRP20160720 implements Serializable {
 		if (this == o) return true;
 		if (o == null || getClass() != o.getClass()) return false;
 
-		DwfStoragegroupRP20160720 that = (DwfStoragegroupRP20160720) o;
+		DwfStoragegroupRP20160722 that = (DwfStoragegroupRP20160722) o;
 
 		if (partitionkey != that.partitionkey) return false;
 		if (storagegroupkey != that.storagegroupkey) return false;

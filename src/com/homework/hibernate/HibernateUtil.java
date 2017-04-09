@@ -1,3 +1,5 @@
+package com.homework.hibernate;
+
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
@@ -12,7 +14,7 @@ public class HibernateUtil {
 
 	protected static SessionFactory buildSessionFactory() {
 		final StandardServiceRegistry registry = new StandardServiceRegistryBuilder()
-				.configure()
+				.configure("hibernate.cfg.xml")
 				.build();
 		try {
 			sessionFactory = new MetadataSources(registry)
@@ -33,8 +35,9 @@ public class HibernateUtil {
 	public static void shutdown() {
 		try {
 			sessionFactory.close();
-			StandardServiceRegistryBuilder.destroy(sessionFactory.getSessionFactoryOptions().getServiceRegistry());
+
 			//Seems like a bug, we need to explicitly destroy service registry
+			StandardServiceRegistryBuilder.destroy(sessionFactory.getSessionFactoryOptions().getServiceRegistry());
 		}catch(Throwable t) {
 			System.err.println("Exception while closing session factory: " + t);
 		}

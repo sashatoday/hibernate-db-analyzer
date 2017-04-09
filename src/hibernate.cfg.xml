@@ -9,15 +9,15 @@
     <property name="connection.driver_class">org.postgresql.Driver</property>
     <property name="connection.username">spa</property>
     <property name="connection.password">qwer</property>
-      <mapping class="db_model.DwdFedirector"/>
-      <mapping class="db_model.DwdStoragegroup"/>
-      <mapping class="db_model.DwdTimeNUtc"/>
-      <mapping class="db_model.DwfFedirectorR"/>
-      <mapping class="db_model.DwfStoragegroupR"/>
-      <mapping class="db_model.DwfStoragegroupRP20160719"/>
-      <mapping class="db_model.DwfStoragegroupRP20160720"/>
-      <mapping class="db_model.DwfStoragegroupRP20160721"/>
-      <mapping class="db_model.DwfStoragegroupRP20160722"/>
+      <mapping class="com.homework.hibernate.db_model.DwdFedirector"/>
+      <mapping class="com.homework.hibernate.db_model.DwdStoragegroup"/>
+      <mapping class="com.homework.hibernate.db_model.DwdTimeNUtc"/>
+      <mapping class="com.homework.hibernate.db_model.DwfFedirectorR"/>
+      <mapping class="com.homework.hibernate.db_model.DwfStoragegroupR"/>
+      <mapping class="com.homework.hibernate.db_model.DwfStoragegroupRP20160719"/>
+      <mapping class="com.homework.hibernate.db_model.DwfStoragegroupRP20160720"/>
+      <mapping class="com.homework.hibernate.db_model.DwfStoragegroupRP20160721"/>
+      <mapping class="com.homework.hibernate.db_model.DwfStoragegroupRP20160722"/>
       <!-- DB schema will be updated if needed -->
     <!-- <property name="hbm2ddl.auto">update</property> -->
   </session-factory>

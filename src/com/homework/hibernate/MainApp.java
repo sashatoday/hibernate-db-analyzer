@@ -1,18 +1,17 @@
+package com.homework.hibernate;
+
+import com.homework.hibernate.query_results.*;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-
-import java.util.Iterator;
-import java.util.List;
 
 /**
  * Created by Sasha on 08.04.17.
  */
 public class MainApp {
 
-	public static void main (String [] s) {
+	public static void main (String [] args) {
 		Analyzer analyzer = new Analyzer();
-		Printer printer = new Printer();
 
 		Session session = HibernateUtil.getSessionFactory().openSession();
 		Transaction transaction = null;
@@ -20,32 +19,31 @@ public class MainApp {
 			transaction = session.beginTransaction();
 
 			/* 1. Get all directors */
-			List Directors = analyzer.getDirectors(session);
-			printer.printAllDirectors(Directors);
+			AllDirectors directors = analyzer.GetAllDirectors(session);
+			directors.print(directors);
 
 			/* 2. Get all storagegroups */
-			List StorageGroups = analyzer.getStorageGroups(session);
-			printer.printAllStorageGroups(StorageGroups);
+			AllStorageGroups storagegroups = analyzer.GetAllStorageGroups(session);
+			storagegroups.print(storagegroups);
 
 			/* 3. Find directors that have problems with queues*/
-			List dirIds = analyzer.findDirectors(session);
-			printer.printDirIds(dirIds);
+			ProblemDirs dirIds = analyzer.FindProblemDirs(session);
+			dirIds.print(dirIds);
 
 			/* 4. Find intervals when queues have problems */
-			List intervals = analyzer.findIntervals(session);
-			printer.printIntervals(intervals);
+			ProblemIntervals intervals = analyzer.FindProblemIntervals(session);
+			intervals.print(intervals);
 
 			/* 5. Find storagegroups that slow processing */
-			List slowSG = analyzer.findSG(session);
-			printer.printSlowSG(slowSG);
+			SlowSG slowSG = analyzer.FindSlowStorageGroups(session);
+			slowSG.Print(slowSG);
 
 			transaction.commit();
 		} catch (HibernateException e) {
 			transaction.rollback();
 			e.printStackTrace();
 		} finally {
-			session.close();
+			HibernateUtil.shutdown();
 		}
-		HibernateUtil.shutdown();
 	}
 }
