@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f23c4d78-9654-4bfc-a3d5-7d68a40b9305" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\Printer.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\Analyzer.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\HibernateUtil.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\MainApp.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwdFedirector.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdFedirector.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwdStoragegroup.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdStoragegroup.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwdTimeNUtc.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdTimeNUtc.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfFedirectorR.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfFedirectorR.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfStoragegroupR.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfStoragegroupR.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfStoragegroupRP20160719.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfStoragegroupRP20160719.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfStoragegroupRP20160720.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfStoragegroupRP20160720.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfStoragegroupRP20160721.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfStoragegroupRP20160721.java" />
-      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\db_model\DwfStoragegroupRP20160722.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwfStoragegroupRP20160722.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" />
-    </list>
+    <list default="true" id="f23c4d78-9654-4bfc-a3d5-7d68a40b9305" name="Default" comment="" />
     <ignored path="hibernate-db-analyzer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -585,12 +569,12 @@
       <workItem from="1491722959836" duration="1373000" />
       <workItem from="1491748016171" duration="181000" />
       <workItem from="1491748417444" duration="10000" />
-      <workItem from="1491748488456" duration="2299000" />
+      <workItem from="1491748488456" duration="2349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38631000" />
+    <option name="totallyTimeSpent" value="38681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="385" y="0" width="1222" height="867" extended-state="0" />
