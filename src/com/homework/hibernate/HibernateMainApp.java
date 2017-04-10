@@ -40,11 +40,11 @@ public class HibernateMainApp {
 
 			/* 6. Get list spmqueuedepcount7, spmqueuedepcount8 and spmqueuedepcount9
 			 * of some director */
-			String dirId = "FA-4D";
+			String dirId = "FA-3D";
  			QueueLoading queueLoading = analyzer.GetQueueLoading(session, dirId);
 			queueLoading.Print();
 
-			/* 6. Get list spmreadrtcount6 and spmreadrtcount7 of some storagegroups */
+			/* 7. Get list spmreadrtcount6 and spmreadrtcount7 of some storagegroups */
 			String sgId = "VHDC2DBESX_SG";
 			StorageGroupLoading sgLoading = analyzer.GetSGLoading(session, sgId);
 			sgLoading.Print();
