@@ -10,18 +10,19 @@ import java.util.List;
  * Created by Sasha on 09.04.17.
  */
 public class AllStorageGroups extends QueryResult {
-	public AllStorageGroups(List<String> content) {
+	public AllStorageGroups(List content) {
 		super(content);
 	}
 
-	public void print(AllStorageGroups allDirectors) {
+	@Override
+	public void Print() {
 		System.out.println("Table StorageGroups");
-		Iterator it = allDirectors.GetContent().iterator();
+		Iterator it = this.content.iterator();
 		while(it.hasNext()) {
 			DwdStoragegroup sg = (DwdStoragegroup)it.next();
 			String row = "|key: " + sg.getStoragegroupkey() +
-					" |createdate: " + sg.getCreatedate() +
-					" |id: " + sg.getStoragegroupid();
+						" |createdate: " + sg.getCreatedate() +
+						" |id: " + sg.getStoragegroupid();
 			System.out.println(row);
 		}
 		System.out.println();

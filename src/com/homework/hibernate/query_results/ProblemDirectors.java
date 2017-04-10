@@ -8,14 +8,15 @@ import java.util.List;
 /**
  * Created by Sasha on 09.04.17.
  */
-public class ProblemDirs extends QueryResult {
-	public ProblemDirs(List<String> content) {
+public class ProblemDirectors extends QueryResult {
+	public ProblemDirectors(List content) {
 		super(content);
 	}
 
-	public void print(ProblemDirs dirIds) {
+	@Override
+	public void Print() {
 		System.out.println("List ProblemDirectors");
-		Iterator it = dirIds.GetContent().iterator();
+		Iterator it = this.content.iterator();
 		while(it.hasNext()) {
 			System.out.println(it.next());
 		}

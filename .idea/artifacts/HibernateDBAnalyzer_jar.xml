@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="hibernate-db-analyzer:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/hibernate_db_analyzer_jar</output-path>
+  <artifact type="jar" build-on-make="true" name="HibernateDBAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HibernateDBAnalyzer_jar</output-path>
     <root id="archive" name="hibernate-db-analyzer.jar">
       <element id="module-output" name="hibernate-db-analyzer" />
       <element id="extracted-dir" path="D:/_ЗАГРУЗКИ/hibernate-release-5.2.9.Final/lib/required/hibernate-commons-annotations-5.0.1.Final.jar" path-in-jar="/" />

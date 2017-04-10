@@ -1,18 +1,23 @@
 package com.homework.hibernate;
 
 import java.util.List;
+import java.util.Objects;
 
 /**
  * Created by Sasha on 09.04.17.
  */
 public abstract class QueryResult {
-	private final List<String> content;
+	protected final List content;
 
-	public QueryResult(List<String> cont) {
+	public QueryResult(List cont) {
 		content = cont;
 	}
 
-	public List<String> GetContent() {
+	public List GetContent()
+	{
 		return content;
 	}
+
+	public abstract void Print();
+
 }

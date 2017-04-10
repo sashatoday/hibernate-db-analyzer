@@ -10,18 +10,19 @@ import java.util.List;
  * Created by Sasha on 09.04.17.
  */
 public class AllDirectors extends QueryResult {
-	public AllDirectors(List<String> content) {
+	public AllDirectors(List content) {
 		super(content);
 	}
 
-	public void print(AllDirectors allDirectors) {
+	@Override
+	public void Print() {
 		System.out.println("Table Directors");
-		Iterator it = allDirectors.GetContent().iterator();
+		Iterator it = this.content.iterator();
 		while(it.hasNext()) {
 			DwdFedirector dir = (DwdFedirector)it.next();
 			String row = "|key: " + dir.getFedirectorkey() +
-					" |createdate: " + dir.getCreatedate() +
-					" |id: " + dir.getFedirectorid();
+						" |createdate: " + dir.getCreatedate() +
+						" |id: " + dir.getFedirectorid();
 			System.out.println(row);
 		}
 		System.out.println();

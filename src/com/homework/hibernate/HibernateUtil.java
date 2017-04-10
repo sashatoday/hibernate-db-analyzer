@@ -35,8 +35,6 @@ public class HibernateUtil {
 	public static void shutdown() {
 		try {
 			sessionFactory.close();
-
-			//Seems like a bug, we need to explicitly destroy service registry
 			StandardServiceRegistryBuilder.destroy(sessionFactory.getSessionFactoryOptions().getServiceRegistry());
 		}catch(Throwable t) {
 			System.err.println("Exception while closing session factory: " + t);

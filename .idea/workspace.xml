@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f23c4d78-9654-4bfc-a3d5-7d68a40b9305" name="Default" comment="" />
+    <list default="true" id="f23c4d78-9654-4bfc-a3d5-7d68a40b9305" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowStorageGroups.java" />
+      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\HibernateDBAnalyzer\.idea\artifacts\hibernate_db_analyzer_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\HibernateDBAnalyzer\src\com\homework\hibernate\query_results\SlowSG.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\HibernateDBAnalyzer\src\com\homework\hibernate\MainApp.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java" />
+      <change type="MOVED" beforePath="C:\Users\Sasha\IdeaProjects\HibernateDBAnalyzer\src\com\homework\hibernate\query_results\ProblemDirs.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirectors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java" afterPath="$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="hibernate-db-analyzer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,43 +87,95 @@
       <file leaf-file-name="Analyzer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2325" selection-end="2325" vertical-scroll-proportion="0.0" vertical-offset="683" max-vertical-offset="1224">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="103" column="71" selection-start="3723" selection-end="3723" vertical-scroll-proportion="-19.04" vertical-offset="1224" max-vertical-offset="1870">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+      <file leaf-file-name="AllDirectors.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="24" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="935">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="24" column="24" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="544">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HibernateUtil.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java">
+      <file leaf-file-name="QueueLoading.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/QueueLoading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="87" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="867">
+            <state line="24" column="28" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="595">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryResult.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AllStorageGroups.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="24" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HibernateMainApp.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="1" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.8386167" vertical-offset="661" max-vertical-offset="1071">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemDirectors.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirectors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="32" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProblemIntervals.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="32" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlowStorageGroups.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowStorageGroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="24" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StorageGroupLoading.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/StorageGroupLoading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="38" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="578">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryResult.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="23" selection-start="288" selection-end="288" vertical-scroll-proportion="0.5756208" vertical-offset="0" max-vertical-offset="443">
-              <folding />
+            <state line="17" column="23" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="493">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,21 +210,26 @@
         <option value="$PROJECT_DIR$/src/Printer.java" />
         <option value="$PROJECT_DIR$/src/MainApp.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java" />
         <option value="$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirs.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowSG.java" />
         <option value="$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java" />
         <option value="$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirs.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirectors.java" />
         <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowSG.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/QueueLoading.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowStorageGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/query_results/StorageGroupLoading.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="385" />
-    <option name="width" value="1222" />
+    <option name="x" value="-7" />
+    <option name="width" value="931" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -188,7 +260,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +274,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemId" value="HibernateDBAnalyzer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,7 +284,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemId" value="HibernateDBAnalyzer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -227,7 +298,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="HibernateDBAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HibernateDBAnalyzer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -245,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemId" value="HibernateDBAnalyzer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -264,6 +353,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,6 +376,7 @@
     <property name="JPA.DatabaseSchemaImportDialog" value="3f594ce5-4a10-48ed-b9d8-3420cb2a8649" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
@@ -485,12 +576,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="USER_CFG_CLASS" />
-      <option name="CONTEXT_PROVIDER" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -510,9 +595,15 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <configuration default="false" name="App" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.homework.hibernate.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="com.homework.hibernate.HibernateMainApp" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -569,15 +660,18 @@
       <workItem from="1491722959836" duration="1373000" />
       <workItem from="1491748016171" duration="181000" />
       <workItem from="1491748417444" duration="10000" />
-      <workItem from="1491748488456" duration="2349000" />
+      <workItem from="1491748488456" duration="2620000" />
+      <workItem from="1491751152079" duration="6866000" />
+      <workItem from="1491792731337" duration="807000" />
+      <workItem from="1491796472956" duration="7374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38681000" />
+    <option name="totallyTimeSpent" value="53999000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="385" y="0" width="1222" height="867" extended-state="0" />
+    <frame x="-7" y="0" width="931" height="867" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -592,17 +686,17 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.80744547" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36190477" sideWeight="0.34364262" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4176871" sideWeight="0.20618556" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32108843" sideWeight="0.4991409" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789117" sideWeight="0.49599084" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2371134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36190477" sideWeight="0.6563574" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28407788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4176871" sideWeight="0.7938144" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -632,21 +726,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirectors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="34" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1207">
+        <state line="15" column="13" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowStorageGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884">
+        <state line="66" column="0" selection-start="2325" selection-end="2325" vertical-scroll-proportion="0.0" vertical-offset="683" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="24" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="87" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="867">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="408">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="34" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="23" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -654,9 +808,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="28" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="816">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -664,18 +818,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="34" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1207">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="23" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="884">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -683,9 +833,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="28" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="816">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -693,18 +843,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="34" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1139">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="23" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -712,9 +858,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="28" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="816">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,18 +868,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="23" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="40" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="969">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -741,9 +883,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="33" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="731">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -751,24 +893,13 @@
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="782">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="2" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="306">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="47" selection-start="658" selection-end="658" vertical-scroll-proportion="0.38636363" vertical-offset="0" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
@@ -833,11 +964,6 @@
         <state line="110" column="17" selection-start="4250" selection-end="4250" vertical-scroll-proportion="0.33333334" vertical-offset="1312" max-vertical-offset="12189" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdFedirector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="219" selection-end="219" vertical-scroll-proportion="0.027552674" vertical-offset="136" max-vertical-offset="1173" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdStoragegroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="0.03601695" vertical-offset="102" max-vertical-offset="1190" />
@@ -853,83 +979,108 @@
         <state line="6" column="12" selection-start="218" selection-end="218" vertical-scroll-proportion="0.21205822" vertical-offset="0" max-vertical-offset="2210" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/db_model/DwdFedirector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2325" selection-end="2325" vertical-scroll-proportion="0.0" vertical-offset="683" max-vertical-offset="1224">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="10" column="25" selection-start="239" selection-end="239" vertical-scroll-proportion="0.033932135" vertical-offset="136" max-vertical-offset="1173" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="87" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="867">
+        <state line="29" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="748">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#951#952#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.9281184" vertical-offset="54" max-vertical-offset="595">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java">
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.9281184" vertical-offset="54" max-vertical-offset="595">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="543" selection-end="543" vertical-scroll-proportion="0.86504424" vertical-offset="0" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="336" selection-end="336" vertical-scroll-proportion="0.53911203" vertical-offset="0" max-vertical-offset="510">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowSG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="619" selection-end="619" vertical-scroll-proportion="0.9281184" vertical-offset="20" max-vertical-offset="561">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="24" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="935">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="13" column="39" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/QueryResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="288" selection-end="288" vertical-scroll-proportion="0.5756208" vertical-offset="0" max-vertical-offset="443">
+        <state line="17" column="23" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="493">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="71" selection-start="3723" selection-end="3723" vertical-scroll-proportion="-19.04" vertical-offset="1224" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/SlowStorageGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/ProblemDirectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllStorageGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/AllDirectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="24" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/QueueLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="28" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="595">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/query_results/StorageGroupLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="578">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="1" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.8386167" vertical-offset="661" max-vertical-offset="1071">
           <folding />
         </state>
       </provider>
@@ -940,7 +1091,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>hibernate-db-analyzer:jar</last-edited>
+          <last-edited>HibernateDBAnalyzer:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
