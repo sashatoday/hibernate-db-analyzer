@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f23c4d78-9654-4bfc-a3d5-7d68a40b9305" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\META-INF\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\Analyzer.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\HibernateMainApp.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\HibernateUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\QueryResult.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwdFedirector.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwdStoragegroup.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwdTimeNUtc.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfFedirectorR.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfStoragegroupR.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfStoragegroupRP20160719.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfStoragegroupRP20160720.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfStoragegroupRP20160721.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\db_model\DwfStoragegroupRP20160722.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\AllDirectors.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\AllStorageGroups.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\ProblemDirectors.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\ProblemIntervals.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\QueueLoading.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\SlowStorageGroups.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\com\homework\hibernate\query_results\StorageGroupLoading.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\hibernate.cfg.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="DELETED" beforePath="C:\Users\Sasha\IdeaProjects\hibernate-db-analyzer\src\main\java\hibernate.cfg.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/HibernateDBAnalyzer_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/HibernateDBAnalyzer_jar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hibernate-db-analyzer.iml" afterPath="$PROJECT_DIR$/hibernate-db-analyzer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hibernate-db-analyzer.iws" />
@@ -96,55 +74,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StorageGroupLoading.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/StorageGroupLoading.java">
+      <file leaf-file-name="hibernate-db-analyzer.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hibernate-db-analyzer.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
+            <state line="119" column="80" selection-start="4079" selection-end="4079" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueLoading.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/QueueLoading.java">
+      <file leaf-file-name="HibernateUtil.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="595">
+            <state line="16" column="31" selection-start="540" selection-end="540" vertical-scroll-proportion="0.4911111" vertical-offset="0" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Analyzer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/Analyzer.java">
+      <file leaf-file-name="HibernateMainApp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateMainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="41" selection-start="1336" selection-end="1353" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1921">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AllStorageGroups.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/AllStorageGroups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="24" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AllDirectors.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/AllDirectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="10" selection-start="436" selection-end="436" vertical-scroll-proportion="0.41834453" vertical-offset="0" max-vertical-offset="447">
+            <state line="15" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
               <folding />
             </state>
           </provider>
@@ -195,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/com/homework/hibernate/HibernateMainApp.java" />
         <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-db-analyzer.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateUtil.java" />
       </list>
     </option>
   </component>
@@ -213,6 +166,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UNUSED_IMPORT</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -242,12 +214,18 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="hibernate-db-analyzer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -260,10 +238,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-db-analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,9 +293,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.16860068" />
+    <property name="project.structure.side.proportion" value="0.15312232" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringDBAnalyzer" />
@@ -488,12 +504,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="USER_CFG_CLASS" />
-      <option name="CONTEXT_PROVIDER" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -511,6 +521,12 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="false" name="App" type="Application" factoryName="Application">
@@ -585,15 +601,16 @@
       <workItem from="1491842998271" duration="891000" />
       <workItem from="1491846153874" duration="808000" />
       <workItem from="1491928068303" duration="24000" />
+      <workItem from="1510092773401" duration="3330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62615000" />
+    <option name="totallyTimeSpent" value="65945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -607,22 +624,22 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919356" sideWeight="0.80744547" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32037532" sideWeight="0.50577664" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36021507" sideWeight="0.23491655" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32123655" sideWeight="0.4935815" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991013" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09563543" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22015405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5658602" sideWeight="0.7657253" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1931964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36021507" sideWeight="0.76508343" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32123655" sideWeight="0.49422336" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -809,11 +826,6 @@
         <state line="380" column="0" selection-start="14187" selection-end="14187" vertical-scroll-proportion="0.3483871" vertical-offset="5414" max-vertical-offset="12818" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/db_model/DwfStoragegroupR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="294" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="37689" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1248" column="0" selection-start="45635" selection-end="45635" vertical-scroll-proportion="0.33333334" vertical-offset="20625" max-vertical-offset="24497" />
@@ -839,26 +851,9 @@
         <state line="10" column="25" selection-start="239" selection-end="239" vertical-scroll-proportion="0.033932135" vertical-offset="136" max-vertical-offset="1173" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="748" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hibernate-db-analyzer.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2210" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/StorageGroupLoading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="578">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/SlowStorageGroups.java">
@@ -888,34 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/QueueLoading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/Analyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="41" selection-start="1336" selection-end="1353" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="33" selection-start="644" selection-end="644" vertical-scroll-proportion="0.32352942" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateMainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="16" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.5588235" vertical-offset="493" max-vertical-offset="1071">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/AllDirectors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="13" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="544">
@@ -925,7 +892,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="436" selection-end="436" vertical-scroll-proportion="0.41834453" vertical-offset="0" max-vertical-offset="447">
+        <state line="11" column="10" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="5" selection-start="2516" selection-end="2516" vertical-scroll-proportion="0.0" vertical-offset="783" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/StorageGroupLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/query_results/QueueLoading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/db_model/DwfStoragegroupR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="37740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernate-db-analyzer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="80" selection-start="4079" selection-end="4079" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateMainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/homework/hibernate/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="540" selection-end="540" vertical-scroll-proportion="0.4911111" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
@@ -940,8 +956,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.5" />
+                <option value="0.15312232" />
+                <option value="0.8293371" />
               </list>
             </option>
           </splitter-proportions>
@@ -989,6 +1005,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
