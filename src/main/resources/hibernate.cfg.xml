@@ -8,7 +8,7 @@
     <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL82Dialect</property>
     <property name="connection.driver_class">org.postgresql.Driver</property>
     <property name="connection.username">spa</property>
-    <property name="connection.password">qwer</property>
+    <property name="connection.password">123</property>
       <mapping class="com.homework.hibernate.db_model.DwdFedirector"/>
       <mapping class="com.homework.hibernate.db_model.DwdStoragegroup"/>
       <mapping class="com.homework.hibernate.db_model.DwdTimeNUtc"/>
