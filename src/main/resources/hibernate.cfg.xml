@@ -4,7 +4,7 @@
     "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
   <session-factory>
-    <property name="connection.url">jdbc:postgresql://localhost:5432/q1</property>
+    <property name="connection.url">jdbc:postgresql://db:5432/q1</property>
     <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL82Dialect</property>
     <property name="connection.driver_class">org.postgresql.Driver</property>
     <property name="connection.username">spa</property>
