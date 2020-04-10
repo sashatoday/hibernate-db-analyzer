@@ -1,3 +1,3 @@
 # hibernate-db-analyzer
 
-Data analysis tool providing Hibernate queries for [SpringDBAnalyzer](https://github.com/sashatoday/SpringDBAnalyzer) project.
+Data analysis tool for [SpringDBAnalyzer](https://github.com/sashatoday/SpringDBAnalyzer) project based on PostgreSQL database and Hibernate queries.
